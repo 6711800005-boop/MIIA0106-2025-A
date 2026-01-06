@@ -1,0 +1,13 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../LAD082/LAD082.vcxproj" />
+  <Project Path="../LAD083/LAD083.vcxproj" />
+  <Project Path="../LAD084/LAD084.vcxproj" />
+  <Project Path="../LAD085/LAD085.vcxproj" />
+  <Project Path="../LAD086/LAD086.vcxproj" />
+  <Project Path="../LAD087/LAD087.vcxproj" />
+  <Project Path="LAD08.vcxproj" />
+</Solution>
